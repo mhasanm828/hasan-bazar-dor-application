@@ -1,2 +1,15 @@
 @import "tailwindcss";
+@import "@heroui/styles"; 
+
+
+
+:root {
+  --font-sans: var(--font-noto-bengali), sans-serif;
+}
+
+body {
+  font-family: var(--font-noto-bengali), sans-serif;
+}
+
+
  
